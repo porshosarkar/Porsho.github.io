@@ -1,1 +1,1 @@
-https://porsho.github.io/haze/
+porsho.github.io
